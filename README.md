@@ -1,5 +1,5 @@
 ## 281 Project 4 Learning Outcomes
-###Learning Outcomes
+### Learning Outcomes
 * Build a To-Do app that uses the Web Storage API
 * The Web Storage API lets browsers store key/value pairs locally, to
 create a persistent data store
