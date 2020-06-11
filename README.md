@@ -8,7 +8,6 @@ create a persistent data store
 * ES6 Class Types: The Basics
 * ES6 Class Types: Inheritance
 
-# [Corbin Fisher's Github Page](https://corbinf.github.io/)
 ## 281 Project 3 Learning Outcomes
 ### Learning Outcomes
 * A web API or Application Programming Interface is an API
